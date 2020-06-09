@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Fibonacci Sum", "Fibonacci Sum\Fibonacci Sum.pyproj", "{FEE4B9FE-389A-40D8-A898-0BE1963B7DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE4B9FE-389A-40D8-A898-0BE1963B7DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE4B9FE-389A-40D8-A898-0BE1963B7DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE933F4-7D4E-4A58-80B1-55BFAE9E054F}
+	EndGlobalSection
+EndGlobal
